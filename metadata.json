@@ -1,0 +1,6 @@
+{
+  "name": "MAXX AI",
+  "description": "Assistant IA futuriste, rapide et professionnel avec interface adaptée aux mobiles Android et réponses intelligentes en français.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
